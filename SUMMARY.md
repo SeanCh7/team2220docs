@@ -10,6 +10,8 @@
 * [Sensors](control/sensors/README.md)
   * [Digital Pressure Gauge](control/sensors/digital-pressure-gauge.md)
   * [Photoelectric Sensor](control/sensors/photoelectric-sensor.md)
+  * [Color Sensor](control/sensors/color-sensor.md)
+  * [Limit Switch](control/sensors/limit-switch.md)
 
 ## Programming
 
