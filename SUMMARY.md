@@ -20,3 +20,7 @@
   * [Scouting](programming/programming-for-competition/scouting.md)
 * [Github](programming/github/README.md)
   * [GitHub Link](https://github.com)
+
+***
+
+* [Java Cheatsheet](java-cheatsheet.md)
