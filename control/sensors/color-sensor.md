@@ -1,5 +1,9 @@
 # Color Sensor
 
+## Wiring
+
+The color sensor is wired to the I2C port on the rio using 4 conductor wire. See I2C for a pinout.
+
 ## Specs
 
 |                        |         |
