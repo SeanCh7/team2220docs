@@ -14,13 +14,6 @@
   * [Color Sensor](control/sensors/color-sensor.md)
   * [Limit Switch](control/sensors/limit-switch.md)
 
-## Programming
-
-* [Programming for Competition](programming/programming-for-competition/README.md)
-  * [Scouting](programming/programming-for-competition/scouting.md)
-* [Github](programming/github/README.md)
-  * [GitHub Link](https://github.com)
-
 ***
 
 * [Java Cheatsheet](java-cheatsheet.md)
